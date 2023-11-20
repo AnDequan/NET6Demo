@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\AzureDevOps\\gitcode\\NET6Demo\\NET6Web\\NET6Web\\NET6Web.csproj": {}
+    "F:\\AzureDevOps\\gitcode\\NET6Demo\\NET6Web\\NET6Web.csproj": {}
   },
   "projects": {
-    "F:\\AzureDevOps\\gitcode\\NET6Demo\\NET6Web\\NET6Web\\NET6Web.csproj": {
+    "F:\\AzureDevOps\\gitcode\\NET6Demo\\NET6Web\\NET6Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\AzureDevOps\\gitcode\\NET6Demo\\NET6Web\\NET6Web\\NET6Web.csproj",
+        "projectUniqueName": "F:\\AzureDevOps\\gitcode\\NET6Demo\\NET6Web\\NET6Web.csproj",
         "projectName": "NET6Web",
-        "projectPath": "F:\\AzureDevOps\\gitcode\\NET6Demo\\NET6Web\\NET6Web\\NET6Web.csproj",
+        "projectPath": "F:\\AzureDevOps\\gitcode\\NET6Demo\\NET6Web\\NET6Web.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\AzureDevOps\\gitcode\\NET6Demo\\NET6Web\\NET6Web\\obj\\",
+        "outputPath": "F:\\AzureDevOps\\gitcode\\NET6Demo\\NET6Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
